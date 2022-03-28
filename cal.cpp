@@ -1,4 +1,4 @@
-//Program 
+//Program by Devesh Asawa
 #include<iostream>
 using namespace std;
 class Cal{
